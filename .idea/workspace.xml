@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ab54624-8418-4f74-b80d-377d39e823fd" name="Default Changelist" comment="" />
+    <list default="true" id="4ab54624-8418-4f74-b80d-377d39e823fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day3/MapSolver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/input-test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3b/MapSolver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3b/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3b/input-test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3b/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/day2/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2b/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/day2b/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +24,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1l6ph57RuTGw7aC01LYacs7jhKj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,12 +40,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\wamp64\www\code" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\wamp64\www\code" />
       <recent name="G:\wamp64\www\code\day3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\wamp64\www\code" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -51,7 +67,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606928142360</updated>
-      <workItem from="1606928143530" duration="3000000" />
+      <workItem from="1606928143530" duration="3337000" />
+      <workItem from="1606992358147" duration="5844000" />
     </task>
     <servers />
   </component>
@@ -59,6 +76,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="596" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606992512701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="596" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606992512701" />
     <state x="794" y="452" key="NewPhpFileDialog" timestamp="1606929584921">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
