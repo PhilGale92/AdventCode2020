@@ -1,5 +1,5 @@
 <?php
     require_once('PasswordSolver.php');
 
-    $passwordSolver = new MapSolver();
+    $passwordSolver = new PasswordSolver();
     echo $passwordSolver;
